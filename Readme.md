@@ -11,7 +11,7 @@ I have build stopwatch with the help of `HTML`, `CSS` and `JavaScript`.
   
 This is the live link of the project.
 
-Checkout Here [Live Link]()
+Checkout Here [Live Link](https://dp-js-stopwatch.netlify.app)
 
 ![assets](assets/screencapture.png)
 
